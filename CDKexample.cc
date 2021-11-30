@@ -9,7 +9,7 @@
  *                                 *
  *                                     * Description
  *                                         *
- *                                             *     This is the maiin file that compiles the matrix and displays it 
+ *                                             *     This is the main file that compiles the matrix and displays it 
  *                                                 *     
  *                                                     */
 
